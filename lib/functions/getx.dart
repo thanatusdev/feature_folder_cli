@@ -23,7 +23,7 @@ Future<void> generateGetX(
   try {
     final brick = Brick.git(
       GitPath(
-        'https://github.com/RyanDsilva/feature_folder_cli',
+        'https://github.com/thanatusdev/feature_folder_cli',
         path: 'bricks/getx',
       ),
     );
