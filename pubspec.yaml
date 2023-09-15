@@ -3,7 +3,7 @@ description: >-
   CLI utility that generates a folder structure to reduce the repetitive work
   required to setup directories for models, services, repositories, screens and
   widgets.
-version: 0.3.3
+version: 0.3.5
 homepage: https://github.com/RyanDsilva/feature_folder_cli
 
 documentation: https://github.com/RyanDsilva/feature_folder_cli#folder-by-feature-cli-utility
