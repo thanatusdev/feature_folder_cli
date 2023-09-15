@@ -184,7 +184,7 @@ packages:
       sha256: c6c25b83c61c628fc9946be39f01291808342d8e8df75c61fc7b6a671bd0a8f8
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.0-dev.49"
+    version: "0.1.0-dev.50"
   mason_logger:
     dependency: transitive
     description:
